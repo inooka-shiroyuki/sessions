@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
+	"github.com/inooka-shiroyuki/sessions"
 )
 
 func testOptionSameSitego(t *testing.T, r *gin.Engine) {

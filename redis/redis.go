@@ -3,9 +3,9 @@ package redis
 import (
 	"errors"
 
-	"github.com/gin-contrib/sessions"
 	"github.com/gomodule/redigo/redis"
 	"github.com/inooka-shiroyuki/redistore"
+	"github.com/inooka-shiroyuki/sessions"
 )
 
 type Store interface {
