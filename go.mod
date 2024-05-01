@@ -1,4 +1,4 @@
-module github.com/gin-contrib/sessions
+module github.com/inooka-shiroyuki/sessions
 
 go 1.22.0
 
